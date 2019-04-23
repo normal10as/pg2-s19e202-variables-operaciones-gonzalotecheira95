@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\concatenacion\\concatenacion.vbproj",
-      "projectName": "concatenacion",
-      "projectPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\concatenacion\\concatenacion.vbproj",
+      "projectUniqueName": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\concatenacion\\03.concatenacion.vbproj",
+      "projectName": "03.concatenacion",
+      "projectPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\concatenacion\\03.concatenacion.vbproj",
       "packagesPath": "C:\\Users\\gnxa9\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\concatenacion\\obj\\",
       "projectStyle": "PackageReference",

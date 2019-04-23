@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\VariablesTipos\\variables_tipos.vbproj",
-      "projectName": "variables_tipos",
-      "projectPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\VariablesTipos\\variables_tipos.vbproj",
+      "projectUniqueName": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\VariablesTipos\\02.variables_tipos.vbproj",
+      "projectName": "02.variables_tipos",
+      "projectPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\VariablesTipos\\02.variables_tipos.vbproj",
       "packagesPath": "C:\\Users\\gnxa9\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gnxa9\\source\\repos\\normal10as\\pg2-s19e202-variables-operaciones-gonzalotecheira95\\Variables\\VariablesTipos\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\bin\Debug\netcoreapp2.1\06.mediaysuma.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\bin\Debug\netcoreapp2.1\06.mediaysuma.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\bin\Debug\netcoreapp2.1\06.mediaysuma.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\bin\Debug\netcoreapp2.1\06.mediaysuma.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\bin\Debug\netcoreapp2.1\06.mediaysuma.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\obj\Debug\netcoreapp2.1\06.mediaysuma.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\obj\Debug\netcoreapp2.1\06.mediaysuma.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\obj\Debug\netcoreapp2.1\06.mediaysuma.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\obj\Debug\netcoreapp2.1\06.mediaysuma.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\06.mediaysuma\obj\Debug\netcoreapp2.1\06.mediaysuma.pdb
