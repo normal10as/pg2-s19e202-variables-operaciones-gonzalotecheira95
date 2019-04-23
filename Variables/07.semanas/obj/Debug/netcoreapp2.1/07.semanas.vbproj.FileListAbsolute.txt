@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\bin\Debug\netcoreapp2.1\07.semanas.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\bin\Debug\netcoreapp2.1\07.semanas.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\bin\Debug\netcoreapp2.1\07.semanas.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\bin\Debug\netcoreapp2.1\07.semanas.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\bin\Debug\netcoreapp2.1\07.semanas.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\07.semanas\obj\Debug\netcoreapp2.1\07.semanas.pdb

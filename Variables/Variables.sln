@@ -5,15 +5,19 @@ VisualStudioVersion = 16.0.28809.33
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "01.variables_consola", "variables_consola\01.variables_consola.vbproj", "{C034C4BE-6195-4202-8BFC-ED269DEE3A4D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "02.variables_tipos", "VariablesTipos\02.variables_tipos.vbproj", "{1D20B881-703B-4E4C-87A7-5EE6A276C3C2}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "02.variables_tipos", "VariablesTipos\02.variables_tipos.vbproj", "{1D20B881-703B-4E4C-87A7-5EE6A276C3C2}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "03.concatenacion", "concatenacion\03.concatenacion.vbproj", "{4E7415F1-653E-470D-AA90-7075DEE3C29F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "03.concatenacion", "concatenacion\03.concatenacion.vbproj", "{4E7415F1-653E-470D-AA90-7075DEE3C29F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "04.aritmetica", "aritmetica\04.aritmetica.vbproj", "{11921AE5-74AC-4D8D-8ADE-9379353A0CFA}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "04.aritmetica", "aritmetica\04.aritmetica.vbproj", "{11921AE5-74AC-4D8D-8ADE-9379353A0CFA}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "05.ecuacion", "calculo\05.ecuacion.vbproj", "{8F916D65-6CF1-46A6-9D41-5ED0282188D1}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "05.ecuacion", "calculo\05.ecuacion.vbproj", "{8F916D65-6CF1-46A6-9D41-5ED0282188D1}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "06.mediaysuma", "06.mediaysuma\06.mediaysuma.vbproj", "{F395C0B7-3FED-45CF-9DA2-713477F876B3}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "06.mediaysuma", "06.mediaysuma\06.mediaysuma.vbproj", "{F395C0B7-3FED-45CF-9DA2-713477F876B3}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07.semanas", "07.semanas\07.semanas.vbproj", "{D9675B1D-8125-49CC-860F-26301CD47D5D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "08.tablasverdad", "08.tablasverdad\08.tablasverdad.vbproj", "{DA56220A-C306-4D76-85E6-10A369C48851}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{F395C0B7-3FED-45CF-9DA2-713477F876B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F395C0B7-3FED-45CF-9DA2-713477F876B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F395C0B7-3FED-45CF-9DA2-713477F876B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9675B1D-8125-49CC-860F-26301CD47D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9675B1D-8125-49CC-860F-26301CD47D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9675B1D-8125-49CC-860F-26301CD47D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9675B1D-8125-49CC-860F-26301CD47D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA56220A-C306-4D76-85E6-10A369C48851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA56220A-C306-4D76-85E6-10A369C48851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA56220A-C306-4D76-85E6-10A369C48851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA56220A-C306-4D76-85E6-10A369C48851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
