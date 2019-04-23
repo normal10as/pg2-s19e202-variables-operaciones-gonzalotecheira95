@@ -12,6 +12,6 @@ Module Program
         Console.WriteLine("Ingrese Fecha de Nacimiento")
         fecha_nacimiendo = Console.ReadLine()
 
-        Console.WriteLine(apellido & " " & nombre & " " & "Nacio el :" & fecha_nacimiendo)
+        Console.WriteLine(apellido & " " & nombre & " " & "Nacio el: " & fecha_nacimiendo)
     End Sub
 End Module

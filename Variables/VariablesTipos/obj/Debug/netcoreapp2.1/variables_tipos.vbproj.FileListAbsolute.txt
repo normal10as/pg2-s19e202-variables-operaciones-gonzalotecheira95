@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\bin\Debug\netcoreapp2.1\variables_tipos.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\bin\Debug\netcoreapp2.1\variables_tipos.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\bin\Debug\netcoreapp2.1\variables_tipos.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\VariablesTipos\obj\Debug\netcoreapp2.1\variables_tipos.pdb
