@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\bin\Debug\netcoreapp2.1\aritmetica.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\bin\Debug\netcoreapp2.1\aritmetica.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\bin\Debug\netcoreapp2.1\aritmetica.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\bin\Debug\netcoreapp2.1\aritmetica.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\bin\Debug\netcoreapp2.1\aritmetica.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\obj\Debug\netcoreapp2.1\aritmetica.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\obj\Debug\netcoreapp2.1\aritmetica.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\obj\Debug\netcoreapp2.1\aritmetica.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\obj\Debug\netcoreapp2.1\aritmetica.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\aritmetica\obj\Debug\netcoreapp2.1\aritmetica.pdb
