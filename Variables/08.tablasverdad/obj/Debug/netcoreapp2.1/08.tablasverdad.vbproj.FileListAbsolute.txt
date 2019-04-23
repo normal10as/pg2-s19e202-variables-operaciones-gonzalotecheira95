@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\bin\Debug\netcoreapp2.1\08.tablasverdad.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\bin\Debug\netcoreapp2.1\08.tablasverdad.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\bin\Debug\netcoreapp2.1\08.tablasverdad.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\bin\Debug\netcoreapp2.1\08.tablasverdad.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\bin\Debug\netcoreapp2.1\08.tablasverdad.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\08.tablasverdad\obj\Debug\netcoreapp2.1\08.tablasverdad.pdb
