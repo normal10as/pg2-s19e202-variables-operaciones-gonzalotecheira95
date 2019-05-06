@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\bin\Debug\netcoreapp2.1\03.concatenacion.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\bin\Debug\netcoreapp2.1\03.concatenacion.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\bin\Debug\netcoreapp2.1\03.concatenacion.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\bin\Debug\netcoreapp2.1\03.concatenacion.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\bin\Debug\netcoreapp2.1\03.concatenacion.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\concatenacion\obj\Debug\netcoreapp2.1\03.concatenacion.pdb
