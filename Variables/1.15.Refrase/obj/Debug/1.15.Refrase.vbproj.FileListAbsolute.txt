@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\bin\Debug\1.15.Refrase.exe.config
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\bin\Debug\1.15.Refrase.exe
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\bin\Debug\1.15.Refrase.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\bin\Debug\1.15.Refrase.xml
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\_1._15.Refrase.Resources.resources
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.vbproj.GenerateResource.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.exe
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.xml
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.15.Refrase\obj\Debug\1.15.Refrase.pdb

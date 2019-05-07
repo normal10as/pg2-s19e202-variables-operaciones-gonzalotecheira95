@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1.17.Ajustar_reloj.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1.17.Ajustar_reloj.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1.17.Ajustar_reloj.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1.17.Ajustar_reloj.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\bin\Debug\netcoreapp2.1\1.17.Ajustar_reloj.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1.17.Ajustar_reloj.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1.17.Ajustar_reloj.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1.17.Ajustar_reloj.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1.17.Ajustar_reloj.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.17.Ajustar_reloj\obj\Debug\netcoreapp2.1\1.17.Ajustar_reloj.pdb

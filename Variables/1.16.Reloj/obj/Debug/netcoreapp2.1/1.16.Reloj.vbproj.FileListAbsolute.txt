@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\bin\Debug\netcoreapp2.1\1.16.Reloj.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\bin\Debug\netcoreapp2.1\1.16.Reloj.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\bin\Debug\netcoreapp2.1\1.16.Reloj.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\bin\Debug\netcoreapp2.1\1.16.Reloj.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\bin\Debug\netcoreapp2.1\1.16.Reloj.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\obj\Debug\netcoreapp2.1\1.16.Reloj.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\obj\Debug\netcoreapp2.1\1.16.Reloj.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\obj\Debug\netcoreapp2.1\1.16.Reloj.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\obj\Debug\netcoreapp2.1\1.16.Reloj.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.16.Reloj\obj\Debug\netcoreapp2.1\1.16.Reloj.pdb
