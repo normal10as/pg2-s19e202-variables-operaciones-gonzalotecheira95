@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.exe.config
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.exe
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.xml
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbprojAssemblyReference.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\_1._14.Cadenas1.Resources.resources
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbproj.GenerateResource.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.exe
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.xml
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.pdb

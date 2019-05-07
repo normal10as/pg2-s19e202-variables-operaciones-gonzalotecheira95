@@ -1,0 +1,10 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\bin\Debug\netcoreapp2.1\1.13.Mayor.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\bin\Debug\netcoreapp2.1\1.13.Mayor.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\bin\Debug\netcoreapp2.1\1.13.Mayor.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\bin\Debug\netcoreapp2.1\1.13.Mayor.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\bin\Debug\netcoreapp2.1\1.13.Mayor.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\obj\Debug\netcoreapp2.1\1.13.Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\obj\Debug\netcoreapp2.1\1.13.Mayor.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\obj\Debug\netcoreapp2.1\1.13.Mayor.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\obj\Debug\netcoreapp2.1\1.13.Mayor.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Variables\1.13.Mayor\obj\Debug\netcoreapp2.1\1.13.Mayor.pdb
