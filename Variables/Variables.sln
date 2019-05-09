@@ -19,25 +19,27 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07.semanas", "07.semanas\07
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "08.tablasverdad", "08.tablasverdad\08.tablasverdad.vbproj", "{DA56220A-C306-4D76-85E6-10A369C48851}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.9.Interes", "1.9.Interes\1.9.Interes.vbproj", "{DFF5A9A6-16BE-4F2C-B929-4F1B5D104885}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.9.Interes", "1.9.Interes\1.9.Interes.vbproj", "{DFF5A9A6-16BE-4F2C-B929-4F1B5D104885}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.10.Resto_division", "1.10.Resto_division\1.10.Resto_division.vbproj", "{97DC5FDC-18DB-4B92-B186-B5EEB6E9BDCC}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.10.Resto_division", "1.10.Resto_division\1.10.Resto_division.vbproj", "{97DC5FDC-18DB-4B92-B186-B5EEB6E9BDCC}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.11.Matematica1", "1.11.Matematica1\1.11.Matematica1.vbproj", "{838A4C00-5184-494A-8EFB-6C85D1F87568}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.11.Matematica1", "1.11.Matematica1\1.11.Matematica1.vbproj", "{838A4C00-5184-494A-8EFB-6C85D1F87568}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.12.Redondeo", "1.12.Redondeo\1.12.Redondeo.vbproj", "{B48908AA-9A1D-4CE9-99C2-96F62216BCD0}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.12.Redondeo", "1.12.Redondeo\1.12.Redondeo.vbproj", "{B48908AA-9A1D-4CE9-99C2-96F62216BCD0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.13.Mayor", "1.13.Mayor\1.13.Mayor.vbproj", "{8AC15ED9-0F3C-4E95-B6CD-1FDC907836F3}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.13.Mayor", "1.13.Mayor\1.13.Mayor.vbproj", "{8AC15ED9-0F3C-4E95-B6CD-1FDC907836F3}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.14.Cadenas1", "1.14.Cadenas1\1.14.Cadenas1.vbproj", "{8B2CCA8F-4AB1-433E-B903-32871F559518}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.15.Refrase", "1.15.Refrase\1.15.Refrase.vbproj", "{35230F87-22DD-48D2-9E84-E362028FD74B}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.16.Reloj", "1.16.Reloj\1.16.Reloj.vbproj", "{329E5C3E-32DF-4763-B848-9F0698153E6C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.16.Reloj", "1.16.Reloj\1.16.Reloj.vbproj", "{329E5C3E-32DF-4763-B848-9F0698153E6C}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.17.Ajustar_reloj", "1.17.Ajustar_reloj\1.17.Ajustar_reloj.vbproj", "{EB993948-0A1F-4D8F-BDF2-FDB35324A3BB}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.17.Ajustar_reloj", "1.17.Ajustar_reloj\1.17.Ajustar_reloj.vbproj", "{EB993948-0A1F-4D8F-BDF2-FDB35324A3BB}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.18.Nueva_fecha", "1.18.Nueva_fecha\1.18.Nueva_fecha.vbproj", "{CBFC4CB0-44F3-4137-80E5-C2D59434CABD}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.18.Nueva_fecha", "1.18.Nueva_fecha\1.18.Nueva_fecha.vbproj", "{CBFC4CB0-44F3-4137-80E5-C2D59434CABD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.19.Dias", "1.19.Dias\1.19.Dias.vbproj", "{67F608DA-C32A-4CC8-AFC7-F9864C5FF807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{CBFC4CB0-44F3-4137-80E5-C2D59434CABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBFC4CB0-44F3-4137-80E5-C2D59434CABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBFC4CB0-44F3-4137-80E5-C2D59434CABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F608DA-C32A-4CC8-AFC7-F9864C5FF807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F608DA-C32A-4CC8-AFC7-F9864C5FF807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F608DA-C32A-4CC8-AFC7-F9864C5FF807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F608DA-C32A-4CC8-AFC7-F9864C5FF807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
