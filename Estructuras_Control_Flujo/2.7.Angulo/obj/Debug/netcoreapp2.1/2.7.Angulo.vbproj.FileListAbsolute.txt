@@ -1,0 +1,11 @@
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\bin\Debug\netcoreapp2.1\2.7.Angulo.deps.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\bin\Debug\netcoreapp2.1\2.7.Angulo.runtimeconfig.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\bin\Debug\netcoreapp2.1\2.7.Angulo.runtimeconfig.dev.json
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\bin\Debug\netcoreapp2.1\2.7.Angulo.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\bin\Debug\netcoreapp2.1\2.7.Angulo.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.vbproj.CoreCompileInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.AssemblyInfoInputs.cache
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.AssemblyInfo.vb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.dll
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.pdb
+C:\Users\gnxa9\source\repos\normal10as\pg2-s19e202-variables-operaciones-gonzalotecheira95\Estructuras_Control_Flujo\2.7.Angulo\obj\Debug\netcoreapp2.1\2.7.Angulo.vbprojAssemblyReference.cache
